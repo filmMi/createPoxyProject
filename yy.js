@@ -18,9 +18,5 @@
   doc.addEventListener('DOMContentLoaded', recalc, false);
   recalc();
 
-  // if(location.pathname == '/' || location.pathname == 'index.html'){
-  //   $('#homepage').addClass('on')
-  // }
-  
 
 })(document, window);
